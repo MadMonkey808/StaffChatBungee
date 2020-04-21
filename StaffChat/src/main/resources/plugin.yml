@@ -1,0 +1,5 @@
+name: StaffChat
+main: me.madmonkey.staffchat.Main
+author: MadMonkey
+version: 1.0
+description: StaffChat for BungeeCord Servers.
